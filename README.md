@@ -34,7 +34,8 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  https://github.com/user-attachments/assets/3570d903-8506-4d2d-a2c6-e5c4b30af6c7
+  ![Developer Doing Website Development](https://github.com/user-attachments/assets/04f05ea3-a185-4d09-8b84-934c8885435a)
+ 
 </div>
 
 ###
