@@ -37,7 +37,7 @@
  
  
 </div>
- ![Developer Doing Website Development](https://github.com/user-attachments/assets/04f05ea3-a185-4d09-8b84-934c8885435a)
+ 
 
 ###
 
