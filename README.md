@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Haileyesus Eyasu and I'm a full-stack web developer</h1>
+<h1 align="left">Hi 👋! My name is Haileyesus Eyasu and I'm a full-stack Website & App developer</h1>
 
 ###
 
